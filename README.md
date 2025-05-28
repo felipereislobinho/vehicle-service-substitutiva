@@ -42,6 +42,8 @@ A infraestrutura foi desenhada para execução em ambientes **Docker** e **Kuber
 
 ---
 
+
+
 ## 📦 Estrutura dos Microsserviços
 
 *Serviços independentes com integração via REST*
