@@ -31,6 +31,7 @@ O projeto segue os princípios de:
 - **SOLID**
 - **Desenvolvimento orientado a microsserviços**
 
+
 A infraestrutura foi desenhada para execução em ambientes **Docker** e **Kubernetes**.
 
 ### Inclui:
